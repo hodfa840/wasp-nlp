@@ -3,3 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.egg-info/
 .env
+Vision_language_model_demo.ipynb
+images.zip
+*.png
