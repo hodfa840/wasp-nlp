@@ -8,3 +8,5 @@ That said, the LLM was not always right; several suggestions needed fixing befor
 
 I confirm that I have used the feedback that was discussed in the class  during the assignments session to improve my work. Comments were used to correct mistakes, revisit design choices, and refine the implementation where needed. I did not make individual submission.
 
+## List :
+    A1.1 Task 5.2, A1.2 Task 1.1, A2.2 Task 3.2, A3 Task 3.3
